@@ -46,7 +46,7 @@ This is a substitute for my older non-interactable model with a fully interactab
 
 * **v2.1** – Added root and a bunch of minor stuff
 * **v2.0** – Added full interactivity, improved rigging, and customization options
-* **v1.0** – Initial non-interactable player model
+* **v1.0** – Initial FK player model
 
 Created by **ModelCrazy**
 Influenced by **NachoEngine**
