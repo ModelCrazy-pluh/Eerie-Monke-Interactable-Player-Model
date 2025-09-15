@@ -33,7 +33,7 @@ This is a substitute for my older non-interactable model with a fully interactab
 
 ## ???? Requirements
 
-* Blender **4.x** (recommended)
+* Blender latest version (recommended)
 * Windows, macOS, and Linux compatible
 
 ## ???? How to Use
@@ -44,6 +44,7 @@ This is a substitute for my older non-interactable model with a fully interactab
 
 ## ???? Changelog
 
+* **v2.1** – Added root and a bunch of minor stuff
 * **v2.0** – Added full interactivity, improved rigging, and customization options
 * **v1.0** – Initial non-interactable player model
 
